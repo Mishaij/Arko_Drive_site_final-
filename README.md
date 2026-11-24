@@ -156,7 +156,3 @@ Never upload the following files to GitHub:
 - Python cache files
 
 These files should be excluded through `.gitignore`.
-
-## License
-
-This project is currently presented as a portfolio and educational project. An MIT License can be added if the source code is intended to be reused and modified by other developers.
